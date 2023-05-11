@@ -1,0 +1,13 @@
+.btn-apply{
+  background-color: rgb(133, 254, 117);
+  padding: 12px 32px;
+  border-radius: 25px;
+  display: inline-block;
+  color: #fff;
+  text-shadow: 1px 1px 25px rgb(0, 0, 0);
+}
+
+.btn-social{
+  text-decoration: none;
+  color: rgb(133, 254, 117);
+}
